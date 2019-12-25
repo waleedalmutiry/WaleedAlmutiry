@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<p>
+<h3><strong>[Introduction to Probability Distributions](files/212stat.pdf)</strong></h3> <h5>(in Arabic)</h5>
+<br>
+<h3><strong>[Introduction to Statistics and Probability](files/101stat.pdf)</strong></h3> <h5>(in Arabic)</h5>
+</p>
