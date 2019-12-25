@@ -1,0 +1,50 @@
+---
+---
+
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="To be submitted" class="section level3">
+<h3>To Be Submitted:</h3>
+
+
+* <strong>Almutiry, W.</strong>, Deardon, R. "Contact Network Uncertainty in
+Individual Level Models of Infectious Disease Transmission Using Within-Cluster Likelihood Approximations".
+
+
+</div>
+
+<div id="Submitted Articles" class="section level3">
+<h3>Submitted Articles:</h3>
+
+* <strong>Almutiry, W.</strong> & Deardon, R. "Spatial contact network uncertainty in individual level models of infectious disease transmission". Sumbitted to <em>Statistical Communications in Infectious Diseases</em>.
+
+* Warriyar, V., <strong>Almutiry, W.</strong>, Deardon, R. "Individual-Level Modelling of Infectious Disease Data: EpiILM". Sumbitted to <em>The R Journal</em>.
+
+</div>
+
+
+<div id="Accepted Articles" class="section level3">
+<h3>Accepted Articles:</h3>
+
+* <strong>Almutiry, W.</strong>, Warriyar, V., Deardon, R. “Continuous-time individual-level models of infectious disease: EpiILMCT". Sumbitted to <em>The Journal of Statistical Software</em>.
+
+</div>
+
+
+<div id="Published Articles" class="section level3">
+<h3>Published Articles:</h3>
+
+* <strong>Almutiry, W.</strong> & Deardon, R. (2019). Incorporating Contact Network Uncertainty in Individual Level Models of Infectious Disease using Approximate Bayesian Computation. 
+<em>The International Journal of Biostatistics</em> ,
+<a href="doi:10.1515/ijb-2017-0092" class="uri">doi:10.1515/ijb-2017-0092</a>
+* Otmani, S., Boulaaras, S., <strong>Almutiry, W.</strong> (2019). The Maximum Norm Analysis of a Nonmatching Grids Method for a Class of Parabolic Biharmonic Equation with Mixed Boundary Condition. <em>Journal of Intelligent & Fuzzy Systems</em> , <a href="doi:10.3233/JIFS-179542" class="uri">doi:10.3233/JIFS-179542</a>
+
+</div>
+
+<div id="Theses" class="section level3">
+<h3>Theses:</h3>
+
+* <strong>Almutiry, W.</strong> (2018) "[Incorporating Contact Network Uncertainty in Individual Level Models of Infectious Disease within a Bayesian Framework](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/14120/Almutiry_Waleed_201808-PhD.pdf?sequence=5&isAllowed=y)" Ph.D. Thesis, Department of Mathematics and Statistics, University of Guelph, Canada. 
+* <strong>Almutiry, W.</strong> (2018) "Modelling the nasal carriage of Staphylococcus aurues in
+mothers and their infants over time" M.Sc. Thesis, Department of Mathematics and Statistics, Lancaster University, UK.
+
+</div>
