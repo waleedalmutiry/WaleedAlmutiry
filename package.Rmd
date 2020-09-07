@@ -59,7 +59,7 @@ The **R** package **EpiILM** provides tools for simulating from discrete-time in
 
 ## Authors
 
-* **Vineetha Warriyar K. V.** - *Author and Maintainer*
-* **Waleed Almutiry** - *Author*
+* **Vineetha Warriyar K. V.** - *Author*
+* **Waleed Almutiry** - *Author and Maintainer*
 * **[Rob Deardon](http://people.ucalgary.ca/~robert.deardon/)** - *Author*
 </div>

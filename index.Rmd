@@ -9,4 +9,4 @@ I received my <strong>M.Sc.</strong> degree in Statistics (Mediacal Statistics p
 
 I am the author and maintainer of an [R EpiILMCT](https://cran.r-project.org/web/packages/EpiILMCT/index.html) package, and an author of [R EpiILM](https://cran.r-project.org/web/packages/EpiILM/index.html) package. 
 
-My full CV is available [here](files/cv_15.pdf).
+My full CV is available [here](files/cv-15.pdf).
