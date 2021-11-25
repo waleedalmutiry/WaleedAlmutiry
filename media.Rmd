@@ -1,0 +1,22 @@
+---
+---
+
+<div id="Presentations" class="section level3">
+<h3>Presentations:</h3>
+
+* Studying the Implications for Local and Global Mass Gatherings Suspension in Saudi Arabia during the COVID-19 Pandemic, Knowledge Integration Forum, Ministry of Education (virtual meeting), Saudi Arabia, 2020. "[YouTube Link](https://www.youtube.com/watch?v=wh9BTux6wng)" (starting from 02:19:00).
+
+* Estimating the Contact Rate between Individuals during the COVID-19 Pandemic in Saudi Arabia with Studying the Effect of School Closure Measure, Knowledge Integration Forum, Ministry of Education (virtual meeting), Saudi Arabia, 2020. "[YouTube Link](https://www.youtube.com/watch?v=8MzM19HSFNQ)" (starting from 02:03:00).
+
+* Incorporating contact network uncertainty in individual level models of infectious disease using approximate Bayesian computation, Statistical Society of Canada Annual Meeting 2017, University of Manitoba, Winnipeg, Canada.
+
+* Incorporating contact network uncertainty in individual level models of infectious disease using approximate Bayesian computation, Canadian Society for Epidemiology and Biostatistics (CSEB), Biennial Conference 2017, Banff, Alberta, Canada.
+
+</div>
+
+<div id="TV Interview" class="section level3">
+<h3>TV Interview:</h3>
+
+* With <strong>Al Ekhbariya</strong> Channel Regarding publishing a <a href="https://www.jstatsoft.org/article/view/v098i10" class= <em>paper</em></a> in <strong><em>the Journal of Statistical Software</em></strong> which is one of the top-journal in the probability and statistics computer science categories (the first rank for the years between 2016 and 2019). "[Link](https://twitter.com/Alekhbariya_net/status/1421503601080479748?s=20)".
+
+</div>

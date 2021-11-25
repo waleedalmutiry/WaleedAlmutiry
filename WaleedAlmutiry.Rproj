@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/Downloads/WaleedAlmutiry
+WebsitePath: ~/WaleedAlmutiry-master

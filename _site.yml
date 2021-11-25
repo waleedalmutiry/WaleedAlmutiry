@@ -3,12 +3,14 @@ output_dir: "."
 navbar:
   title: "Waleed K. Almutiry"
   left:
-    - text: "Research Interest"
-      href: Research.html
     - text: "Publication"
       href: publication.html
-    - text: "R Packages"
+    - text: "Softwares"
       href: package.html
+    - text: "Conference Presentations"
+      href: media.html
+    - text: "Research Interest"
+      href: Research.html
     - text: "Teaching"
       href: teaching.html
   right:
@@ -22,5 +24,5 @@ navbar:
       href: https://www.linkedin.com/in/waleed-almutiry-2212302b/
 output:
   html_document:
-    theme: spacelab
+    theme: yeti
     css: 'styles.css'

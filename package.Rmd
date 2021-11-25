@@ -12,7 +12,7 @@
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/EpiILMCT)](https://cran.r-project.org/package=EpiILMCT)
 [![Downloads](https://cranlogs.r-pkg.org/badges/EpiILMCT)](https://cran.r-project.org/package=EpiILMCT)
 [![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Rdoc](http://www.rdocumentation.org/badges/version/EpiILMCT)](https://www.rdocumentation.org/packages/EpiILMCT/versions/1.1.4.html)
+[![Rdoc](https://rdocumentation.org/packages/EpiILMCT/versions/1.1.7)](https://rdocumentation.org/packages/EpiILMCT/versions/1.1.7)
 
 <h3><strong>EpiILMCT: Continuous Time Distance-Based and Network-Based Individual Level Models for Epidemics</strong>:</h3>
 
@@ -46,7 +46,7 @@ The **R** package **EpiILMCT** provides tools for simulating from continuous-tim
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/EpiILM)](https://cran.r-project.org/package=EpiILM)
 [![Downloads](https://cranlogs.r-pkg.org/badges/EpiILM)](https://cran.r-project.org/package=EpiILM)
 [![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Rdoc](http://www.rdocumentation.org/badges/version/EpiILM)](https://www.rdocumentation.org/packages/EpiILM/versions/1.1.4.html)
+[![Rdoc](https://rdocumentation.org/packages/EpiILM/versions/1.5.2)](https://rdocumentation.org/packages/EpiILM/versions/1.5.2)
 
 <h3><strong>EpiILM: Spatial and Network Based Individual Level Models for Epidemics</strong>:</h3>
 
